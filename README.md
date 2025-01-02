@@ -3,6 +3,8 @@
 # 💫 About Me:
 I am a first year computer science student at Gdańsk University of Technology, passionate about exploring the realms of coding, machine learning, data engineering, and building robust applications.
 
+Website:
+https://elprofesoriqo.github.io/
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
