@@ -7,7 +7,7 @@ Website:
 https://elprofesoriqo.github.io/
 
 Founder of AthSpot & seeking people to collaborate on this project (pls contact me by email/linkedin):
-https://github.com/AthSpot
+https://github.com/AthSpot/.github
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
