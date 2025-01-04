@@ -5,6 +5,9 @@ I am a first year computer science student at Gdańsk University of Technology, 
 
 Website:
 https://elprofesoriqo.github.io/
+
+Founder of AthSpot & seeking people to collaborate on this project (pls contact me by email/linkedin):
+https://github.com/AthSpot
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
