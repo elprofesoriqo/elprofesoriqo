@@ -13,11 +13,10 @@ https://elprofesoriqo.github.io/
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building fastapi applications with PostgreSQL, mognodb.
 
-## 🛠️ Currently working on
+## 🛠️ Currently working on [AthSpot](https://github.com/AthSpot)
+& seeking people to collaborate on this project
+(pls contact me via email/linkedin)
 
-Founder of AthSpot
-& seeking people to collaborate on this project (pls contact me by email/linkedin):
-https://github.com/AthSpot
 
 
 ## 🌐 Socials:
