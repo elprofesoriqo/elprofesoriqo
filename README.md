@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Igor Jankowski</h1>
 
 # 💫 About Me:
-I am a first year computer science student at Gdańsk University of Technology, passionate about exploring the realms of coding, machine learning, data engineering, and building robust applications.
+I am a computer science student at Gdańsk University of Technology, passionate about exploring the realms of coding, machine learning, data engineering, and building robust applications.
 
 Website:
 https://elprofesoriqo.github.io/
