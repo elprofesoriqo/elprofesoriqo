@@ -4,7 +4,7 @@ I'm a Software Engineer & Architect with a deep passion for AI/ML, scalable syst
 
 My tech stack includes Python 🐍, C, C++, TypeScript, and Golang, with expertise in FastAPI, Node.js, React, and deep learning frameworks like TensorFlow, PyTorch, and Scikit-learn.
 
-🚀 Currently leading an AI-powered research platform at Quantiqo, developing NLP models, automated research analysis, and blockchain-based AI licensing. I work on deep learning models for medical imaging, including MRI segmentation and spinal stenosis classification. Also, a competitive programmer preparing for contests like ACM ICPC.
+🚀 Currently leading an AI-powered research platform @ xaiQo, developing NLP models, automated research analysis, and blockchain-based AI licensing. I work on deep learning models for medical imaging, including MRI segmentation and spinal stenosis classification. Also, a competitive programmer preparing for contests like ACM ICPC.
 
 🤖 Always exploring LLMs, reinforcement learning, and generative AI to push the limits of innovation.
 
