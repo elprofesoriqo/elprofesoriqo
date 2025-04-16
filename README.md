@@ -9,5 +9,3 @@ My tech stack includes Python 🐍, C, C++, TypeScript, and Golang, with experti
 🤖 Always exploring LLMs, reinforcement learning, and generative AI to push the limits of innovation.
 
 If you'd like to collaborate on my AI/ML projects, feel free to reach out: igorjankowwski@gmail.com.
-
-Happy coding! 😄🚀
