@@ -2,4 +2,3 @@ I'm a Software Engineer & Architect with a deep passion for AI/ML, scalable syst
 
 🚀 Currently leading an AI-powered research platform @ xaiQo, developing NLP models, automated research analysis, and blockchain-based AI licensing.
                                                                                                                                                                             
-<div align="right">Biggest Microsoft especialy .net hater</div>
