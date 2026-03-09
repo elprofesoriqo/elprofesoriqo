@@ -6,5 +6,3 @@ Sigmastyczny twórca:
 
 🚀 Currently:
 - working on llvm-ir-graph-embedding @ xaiqo
-- exploring High-Performance Computing (HPC), parallel programming and GPU development (CUDA, ROCm, SYCL, TT-Metal), with a focus on AI/ML Systems and compiler engineering (LLVM, MLIR, XLA)
-      
