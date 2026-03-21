@@ -2,7 +2,6 @@ I'm a Software Engineer & Architect with a deep passion for AI/ML, scalable syst
 
 Sigmastyczny twórca: 
 - [Multi-Agent Reinforcement Learning (MARL) cybersecurity simulator](https://github.com/elprofesoriqo/marl_cyborg)
-- [GNN-based Policy Model for MARL](https://github.com/elprofesoriqo/GNN-based-Policy-Model-for-MARL-Cyber)
 
 🚀 Currently:
 - working on llvm-ir-graph-embedding @ xaiqo
