@@ -5,4 +5,4 @@ Sigmastyczny twórca:
 
 
 Currently:
-- working on llvm-ir-graph-embedding @ xaiqo
+- working on MARL @ xaiqo
