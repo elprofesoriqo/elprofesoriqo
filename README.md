@@ -1,7 +1,7 @@
 
 Sigmastyczny twórca: 
-- [MARL Cybersecurity Simulator - NetForge_RL](https://github.com/elprofesoriqo/marl_cyborg) 
-<br>[![Documentation](https://img.shields.io/badge/NetForge_RL-Documentation-2ea44f.svg?logo=github-pages&logoColor=white)](https://xaiqo.github.io/NetForge_RL/)
+- [MARL Cybersecurity Simulator - NetForge_RL](https://github.com/RFMLab/NetForge_RL) 
+<br>[![Documentation](https://img.shields.io/badge/NetForge_RL-Documentation-2ea44f.svg?logo=github-pages&logoColor=white)](https://rfmlab.github.io/NetForge_RL/)
 
 - [Dual-Gated ETD-MAPPO MARL](https://github.com/xaiqo/edtmappo)
    <br>
