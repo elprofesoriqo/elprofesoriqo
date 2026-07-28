@@ -4,5 +4,6 @@
   <p><b>None</b><br> lack of slop is a feature<br></p>
 </div>
 
+> `> do not be a hero, embrace LLMs`
 ---
 [@ReForceMind](https://reforcemind.github.io)
